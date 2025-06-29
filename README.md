@@ -29,4 +29,4 @@ The program will:
 - Restore ARP tables when you press Ctrl+C
 
 ## Disclaimer
-This tool is for educational and authorized testing purposes only. Its use on anauthorized networks is illegal and unethical.
+This tool is for educational and authorized testing purposes only. Its use on unauthorized networks is illegal and unethical.
